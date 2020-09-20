@@ -1,6 +1,4 @@
 # portal naver
-# 127.0.0.1 ad.naver.com
-# 127.0.0.1 adcr.naver.com
 127.0.0.1 ad.nbms.naver.com
 127.0.0.1 ad.news.naver.com
 127.0.0.1 ad.nmv.naver.com
@@ -26,8 +24,12 @@
 127.0.0.1 nv4.ad.naver.com 
 127.0.0.1 saedu.naver.com
 127.0.0.1 searchad.naver.com
+127.0.0.1 siape.veta.naver.com
 127.0.0.1 syndication.openapi.naver.com
+127.0.0.1 tivan.naver.com
 127.0.0.1 veta.naver.com
 127.0.0.1 videost.nmv.naver.com
 127.0.0.1 vts.rmcnmv.naver.com
 127.0.0.1 wrd.naver.com
+
+
